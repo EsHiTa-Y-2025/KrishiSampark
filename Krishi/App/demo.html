@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Floating Button</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+
+        .content {
+            padding: 20px;
+            /* Adjust the padding to make space for the button */
+        }
+
+        #floating-button {
+            position: fixed;
+            bottom: 20px; 
+            left: 10px; 
+            background-color: #0c7027;
+            color: white;
+            border: none;
+            border-radius: 10%;
+            width: 160px;
+            height: 40px;
+            cursor: pointer;
+            font-size: 15px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        #floating-button:hover {
+            background-color: #bd6d04;
+        }
+    </style>
+</head>
+<body>
+    <button id="floating-button">Sell your animal</button>
+    <div class="content">
+        <!-- Your page content goes here -->
+    </div>
+    <script>
+        // You can add functionality to the button here if needed
+        document.getElementById("floating-button").addEventListener("click", function() {
+            // Add your button click logic here
+            alert("Button clicked!");
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+RewriteEngine On
+
+# Check if the requested URL is not a directory
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Check if the requested URL with .php extension exists as a file
+RewriteCond %{REQUEST_FILENAME}.php -f
+
+# If both conditions are met, rewrite the URL to append .php and add the [NC,L] flags
+RewriteRule ^(.*)$ $1.php [NC,L]
+
+# If the requested URL does not match any existing files or directories, redirect to 404.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ 404.php [L]

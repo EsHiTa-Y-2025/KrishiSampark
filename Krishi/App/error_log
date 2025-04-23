@@ -1,0 +1,667 @@
+[19-Jul-2023 17:15:14 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[19-Jul-2023 17:15:14 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 50
+[19-Jul-2023 17:15:14 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 51
+[19-Jul-2023 17:19:25 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[19-Jul-2023 17:19:25 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 50
+[19-Jul-2023 17:19:25 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 51
+[19-Jul-2023 17:22:44 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/login.php:5) in /home3/eaghirmy/public_html/krishisampark/app/login.php on line 118
+[19-Jul-2023 17:54:04 Asia/Kolkata] PHP Warning:  Undefined variable $ad in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 108
+[19-Jul-2023 17:54:04 Asia/Kolkata] PHP Warning:  Attempt to read property "cat_name" on null in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 108
+[19-Jul-2023 17:54:04 Asia/Kolkata] PHP Warning:  Undefined variable $ad in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 108
+[19-Jul-2023 17:54:04 Asia/Kolkata] PHP Warning:  Attempt to read property "cat_name" on null in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 108
+[19-Jul-2023 17:54:04 Asia/Kolkata] PHP Warning:  Undefined variable $ad in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 108
+[19-Jul-2023 17:54:04 Asia/Kolkata] PHP Warning:  Attempt to read property "cat_name" on null in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 108
+[19-Jul-2023 17:54:04 Asia/Kolkata] PHP Warning:  Undefined variable $ad in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 108
+[19-Jul-2023 17:54:04 Asia/Kolkata] PHP Warning:  Attempt to read property "cat_name" on null in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 108
+[19-Jul-2023 17:54:04 Asia/Kolkata] PHP Warning:  Undefined variable $ad in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 108
+[19-Jul-2023 17:54:04 Asia/Kolkata] PHP Warning:  Attempt to read property "cat_name" on null in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 108
+[19-Jul-2023 17:54:04 Asia/Kolkata] PHP Warning:  Undefined variable $ad in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 108
+[19-Jul-2023 17:54:04 Asia/Kolkata] PHP Warning:  Attempt to read property "cat_name" on null in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 108
+[19-Jul-2023 17:54:04 Asia/Kolkata] PHP Warning:  Undefined variable $ad in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 108
+[19-Jul-2023 17:54:04 Asia/Kolkata] PHP Warning:  Attempt to read property "cat_name" on null in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 108
+[19-Jul-2023 18:08:12 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[19-Jul-2023 18:08:12 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 50
+[19-Jul-2023 18:08:12 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 51
+[19-Jul-2023 18:09:07 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[19-Jul-2023 18:09:07 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 50
+[19-Jul-2023 18:09:07 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 51
+[19-Jul-2023 18:09:40 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[19-Jul-2023 18:09:40 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 50
+[19-Jul-2023 18:09:40 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 51
+[19-Jul-2023 18:14:18 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[19-Jul-2023 18:14:18 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 50
+[19-Jul-2023 18:14:18 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 51
+[19-Jul-2023 18:24:17 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[19-Jul-2023 18:24:17 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 50
+[19-Jul-2023 18:24:17 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 51
+[20-Jul-2023 01:08:40 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[20-Jul-2023 01:08:40 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[20-Jul-2023 01:08:40 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[20-Jul-2023 01:08:41 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[20-Jul-2023 01:08:41 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[20-Jul-2023 01:08:41 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[20-Jul-2023 01:10:50 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[20-Jul-2023 01:10:50 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[20-Jul-2023 01:10:50 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[20-Jul-2023 07:54:34 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[20-Jul-2023 07:54:34 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[20-Jul-2023 07:54:34 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[20-Jul-2023 10:02:21 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[20-Jul-2023 10:02:21 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[20-Jul-2023 10:02:21 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[20-Jul-2023 11:54:29 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[20-Jul-2023 11:54:29 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[20-Jul-2023 11:54:29 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[20-Jul-2023 14:00:33 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[20-Jul-2023 14:00:33 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[20-Jul-2023 14:00:33 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[21-Jul-2023 20:56:32 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[21-Jul-2023 20:56:33 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[21-Jul-2023 20:56:33 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[21-Jul-2023 21:20:39 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[21-Jul-2023 21:20:39 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[21-Jul-2023 21:20:39 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 11:51:04 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 11:51:04 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 11:51:04 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 11:51:42 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 11:51:42 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 11:51:42 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 13:29:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getCategoriesAndSubcategories() in /home3/eaghirmy/public_html/krishisampark/app/main.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 8
+[23-Jul-2023 13:29:36 Asia/Kolkata] PHP Warning:  Undefined variable $pdo in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 8
+[23-Jul-2023 13:29:36 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php:194
+Stack trace:
+#0 /home3/eaghirmy/public_html/krishisampark/app/main.php(8): getCategoriesAndSubcategories(NULL)
+#1 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php on line 194
+[23-Jul-2023 13:34:14 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0
+            ORDER BY c1.id' at line 4 in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php:195
+Stack trace:
+#0 /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php(195): PDOStatement->execute()
+#1 /home3/eaghirmy/public_html/krishisampark/app/main.php(8): getCategoriesAndSubcategories(Object(PDO))
+#2 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php on line 195
+[23-Jul-2023 13:34:38 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0'
+            ORDER BY c1.id' at line 4 in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php:195
+Stack trace:
+#0 /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php(195): PDOStatement->execute(Array)
+#1 /home3/eaghirmy/public_html/krishisampark/app/main.php(8): getCategoriesAndSubcategories(Object(PDO))
+#2 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php on line 195
+[23-Jul-2023 13:34:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0'
+            ORDER BY c1.id' at line 4 in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php:195
+Stack trace:
+#0 /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php(195): PDOStatement->execute(Array)
+#1 /home3/eaghirmy/public_html/krishisampark/app/main.php(8): getCategoriesAndSubcategories(Object(PDO))
+#2 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php on line 195
+[23-Jul-2023 13:35:07 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:07 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:07 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:07 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:07 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:07 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:07 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:07 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:07 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:07 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:07 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:07 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:21 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:21 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:21 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:21 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:21 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:21 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:21 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:21 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:21 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:21 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:21 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:21 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:50 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:50 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:50 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:50 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:50 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:50 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:50 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:50 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:50 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:50 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:50 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:35:50 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:06 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:06 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:06 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:06 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:06 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:06 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:06 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:06 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:06 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:06 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:06 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:06 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:15 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:15 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:15 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:15 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:15 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:15 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:15 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:15 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:15 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:15 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:15 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 13:36:15 Asia/Kolkata] PHP Warning:  Undefined array key "cat_icon" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 94
+[23-Jul-2023 14:03:20 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 14:03:20 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 14:03:20 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 14:04:56 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 14:04:56 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 14:04:56 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 14:51:45 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 14:51:45 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 14:51:45 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 15:12:21 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 15:12:21 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 15:12:21 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 16:56:05 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 16:56:05 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 16:56:05 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 16:56:09 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 16:56:09 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 16:56:09 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 17:01:33 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 17:01:33 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 17:01:33 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 17:08:41 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 17:08:41 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 17:08:41 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 17:38:46 Asia/Kolkata] PHP Warning:  Undefined array key "cat_id" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 87
+[23-Jul-2023 17:38:46 Asia/Kolkata] PHP Warning:  Undefined array key "cat_id" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 87
+[23-Jul-2023 17:38:46 Asia/Kolkata] PHP Warning:  Undefined array key "cat_id" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 87
+[23-Jul-2023 17:38:46 Asia/Kolkata] PHP Warning:  Undefined array key "cat_id" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 87
+[23-Jul-2023 17:38:46 Asia/Kolkata] PHP Warning:  Undefined array key "cat_id" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 87
+[23-Jul-2023 17:38:46 Asia/Kolkata] PHP Warning:  Undefined array key "cat_id" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 87
+[23-Jul-2023 17:38:46 Asia/Kolkata] PHP Warning:  Undefined array key "cat_id" in /home3/eaghirmy/public_html/krishisampark/app/main.php on line 87
+[23-Jul-2023 17:39:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home3/eaghirmy/public_html/krishisampark/app/categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/app/categories.php on line 17
+[23-Jul-2023 17:40:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home3/eaghirmy/public_html/krishisampark/app/categories.php:29
+Stack trace:
+#0 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/app/categories.php on line 29
+[23-Jul-2023 17:45:16 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'service_type' in 'where clause' in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php:298
+Stack trace:
+#0 /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php(298): PDOStatement->execute(Array)
+#1 /home3/eaghirmy/public_html/krishisampark/app/category.php(8): getBusinessByCat(Object(PDO), 'tractors')
+#2 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php on line 298
+[23-Jul-2023 17:45:42 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'service_type' in 'where clause' in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php:298
+Stack trace:
+#0 /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php(298): PDOStatement->execute(Array)
+#1 /home3/eaghirmy/public_html/krishisampark/app/category.php(8): getBusinessByCat(Object(PDO), 'millets')
+#2 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php on line 298
+[23-Jul-2023 17:47:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getBusinessByCat() in /home3/eaghirmy/public_html/krishisampark/app/category.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/app/category.php on line 8
+[23-Jul-2023 17:47:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getBusinessByCat() in /home3/eaghirmy/public_html/krishisampark/app/category.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/app/category.php on line 8
+[23-Jul-2023 17:51:55 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$date in /home3/eaghirmy/public_html/krishisampark/app/listing-detail.php on line 73
+[23-Jul-2023 17:51:55 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$mode_of_payment in /home3/eaghirmy/public_html/krishisampark/app/listing-detail.php on line 143
+[23-Jul-2023 17:51:55 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$open_time in /home3/eaghirmy/public_html/krishisampark/app/listing-detail.php on line 147
+[23-Jul-2023 17:51:55 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$est_year in /home3/eaghirmy/public_html/krishisampark/app/listing-detail.php on line 151
+[23-Jul-2023 17:52:44 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$date in /home3/eaghirmy/public_html/krishisampark/app/listing-detail.php on line 73
+[23-Jul-2023 17:52:44 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$mode_of_payment in /home3/eaghirmy/public_html/krishisampark/app/listing-detail.php on line 143
+[23-Jul-2023 17:52:44 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$open_time in /home3/eaghirmy/public_html/krishisampark/app/listing-detail.php on line 147
+[23-Jul-2023 17:52:44 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$est_year in /home3/eaghirmy/public_html/krishisampark/app/listing-detail.php on line 151
+[23-Jul-2023 17:53:43 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$date in /home3/eaghirmy/public_html/krishisampark/app/listing-detail.php on line 71
+[23-Jul-2023 06:27:36 America/Boise] PHP Parse error:  Unclosed '{' on line 117 in /home3/eaghirmy/public_html/krishisampark/app/listing-detail.php on line 257
+[23-Jul-2023 06:27:37 America/Boise] PHP Parse error:  Unclosed '{' on line 117 in /home3/eaghirmy/public_html/krishisampark/app/listing-detail.php on line 257
+[23-Jul-2023 06:27:38 America/Boise] PHP Parse error:  Unclosed '{' on line 117 in /home3/eaghirmy/public_html/krishisampark/app/listing-detail.php on line 257
+[23-Jul-2023 18:08:36 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'lead_listing.service_type' in 'on clause' in /home3/eaghirmy/public_html/krishisampark/app/leads.php:76
+Stack trace:
+#0 /home3/eaghirmy/public_html/krishisampark/app/leads.php(76): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/app/leads.php on line 76
+[23-Jul-2023 18:09:23 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'lead_listing.service_type' in 'on clause' in /home3/eaghirmy/public_html/krishisampark/app/leads.php:76
+Stack trace:
+#0 /home3/eaghirmy/public_html/krishisampark/app/leads.php(76): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/app/leads.php on line 76
+[23-Jul-2023 18:09:25 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'lead_listing.service_type' in 'on clause' in /home3/eaghirmy/public_html/krishisampark/app/leads.php:76
+Stack trace:
+#0 /home3/eaghirmy/public_html/krishisampark/app/leads.php(76): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/app/leads.php on line 76
+[23-Jul-2023 18:19:53 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 18:19:53 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 18:19:53 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 19:30:00 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 19:30:00 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 19:30:00 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 19:37:15 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 19:37:15 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 19:37:15 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 19:42:37 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 19:42:37 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 19:42:37 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 19:44:11 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status_type in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 82
+[23-Jul-2023 19:44:11 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$rooms in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[23-Jul-2023 19:44:11 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$area in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[23-Jul-2023 19:44:11 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status_type in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 82
+[23-Jul-2023 19:44:11 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$rooms in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[23-Jul-2023 19:44:11 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$area in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[23-Jul-2023 19:44:11 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status_type in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 82
+[23-Jul-2023 19:44:11 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$rooms in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[23-Jul-2023 19:44:11 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$area in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[23-Jul-2023 19:44:11 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status_type in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 82
+[23-Jul-2023 19:44:11 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$rooms in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[23-Jul-2023 19:44:11 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$area in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[23-Jul-2023 19:57:18 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 19:57:18 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 19:57:18 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 20:08:16 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status_type in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 82
+[23-Jul-2023 20:08:16 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$rooms in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[23-Jul-2023 20:08:16 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$area in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[23-Jul-2023 20:08:16 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status_type in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 82
+[23-Jul-2023 20:08:16 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$rooms in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[23-Jul-2023 20:08:16 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$area in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[23-Jul-2023 20:22:04 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 20:22:04 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 20:22:04 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 20:31:14 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 20:31:14 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 20:31:14 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 20:36:40 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 20:36:40 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 20:36:40 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 20:36:41 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 20:36:41 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 20:36:41 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 21:46:41 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 21:46:41 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 21:46:41 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[23-Jul-2023 23:02:16 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Jul-2023 23:02:16 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Jul-2023 23:02:16 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[24-Jul-2023 07:56:00 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 07:56:00 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[24-Jul-2023 07:56:00 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[24-Jul-2023 08:00:42 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 08:00:42 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[24-Jul-2023 08:00:42 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[24-Jul-2023 08:35:08 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 08:35:08 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[24-Jul-2023 08:35:08 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[24-Jul-2023 09:43:11 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 09:43:11 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[24-Jul-2023 09:43:11 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[24-Jul-2023 10:03:13 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 10:03:13 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[24-Jul-2023 10:03:13 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[24-Jul-2023 10:49:14 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 10:49:14 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[24-Jul-2023 10:49:14 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[24-Jul-2023 11:31:04 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 11:31:04 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[24-Jul-2023 11:31:04 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[24-Jul-2023 17:18:12 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 17:18:12 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[24-Jul-2023 17:18:12 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[24-Jul-2023 17:54:15 Asia/Kolkata] PHP Warning:  Undefined variable $con in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 3
+[24-Jul-2023 17:54:15 Asia/Kolkata] PHP Warning:  Undefined variable $con in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 3
+[24-Jul-2023 17:54:15 Asia/Kolkata] PHP Warning:  Undefined variable $con in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 17:54:15 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 17:54:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php:275
+Stack trace:
+#0 /home3/eaghirmy/public_html/krishisampark/app/private/header.php(4): checkIsFreeBusinessPosted(NULL, 'Business', NULL)
+#1 /home3/eaghirmy/public_html/krishisampark/app/main.php(1): require('/home3/eaghirmy...')
+#2 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php on line 275
+[24-Jul-2023 17:54:15 Asia/Kolkata] PHP Warning:  Undefined variable $con in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 17:54:15 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 17:54:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php:275
+Stack trace:
+#0 /home3/eaghirmy/public_html/krishisampark/app/private/header.php(4): checkIsFreeBusinessPosted(NULL, 'Business', NULL)
+#1 /home3/eaghirmy/public_html/krishisampark/app/main.php(1): require('/home3/eaghirmy...')
+#2 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php on line 275
+[24-Jul-2023 17:54:24 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 17:54:24 Asia/Kolkata] PHP Warning:  Undefined variable $con in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 3
+[24-Jul-2023 17:54:24 Asia/Kolkata] PHP Warning:  Undefined variable $con in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 17:54:24 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 17:54:24 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php:275
+Stack trace:
+#0 /home3/eaghirmy/public_html/krishisampark/app/private/header.php(4): checkIsFreeBusinessPosted(NULL, 'Business', NULL)
+#1 /home3/eaghirmy/public_html/krishisampark/app/main.php(1): require('/home3/eaghirmy...')
+#2 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/admin/private/functions.php on line 275
+[24-Jul-2023 17:55:36 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[24-Jul-2023 17:55:36 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[24-Jul-2023 18:01:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home3/eaghirmy/public_html/krishisampark/app/login.php on line 98
+[24-Jul-2023 18:01:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in /home3/eaghirmy/public_html/krishisampark/app/login.php on line 112
+[24-Jul-2023 19:17:47 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 19:17:47 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[24-Jul-2023 19:17:47 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[24-Jul-2023 19:17:48 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 19:17:48 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[24-Jul-2023 19:17:48 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[24-Jul-2023 19:27:15 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Jul-2023 19:27:15 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[24-Jul-2023 19:27:15 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[26-Jul-2023 11:52:43 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[26-Jul-2023 11:52:43 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[26-Jul-2023 11:52:43 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[26-Jul-2023 11:56:58 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status_type in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 82
+[26-Jul-2023 11:56:58 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$rooms in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[26-Jul-2023 11:56:58 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$area in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[26-Jul-2023 11:56:58 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status_type in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 82
+[26-Jul-2023 11:56:58 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$rooms in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[26-Jul-2023 11:56:58 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$area in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[26-Jul-2023 11:56:58 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status_type in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 82
+[26-Jul-2023 11:56:58 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$rooms in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[26-Jul-2023 11:56:58 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$area in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[26-Jul-2023 11:56:58 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status_type in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 82
+[26-Jul-2023 11:56:58 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$rooms in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[26-Jul-2023 11:56:58 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$area in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[26-Jul-2023 11:57:09 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status_type in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 82
+[26-Jul-2023 11:57:09 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$rooms in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[26-Jul-2023 11:57:09 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$area in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[26-Jul-2023 11:57:09 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status_type in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 82
+[26-Jul-2023 11:57:09 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$rooms in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[26-Jul-2023 11:57:09 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$area in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[28-Jul-2023 01:07:10 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[28-Jul-2023 01:07:10 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[28-Jul-2023 01:07:10 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[28-Jul-2023 10:28:28 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[28-Jul-2023 10:28:28 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[28-Jul-2023 10:28:28 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[28-Jul-2023 15:29:31 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[28-Jul-2023 15:29:31 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[28-Jul-2023 15:29:31 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[28-Jul-2023 20:48:23 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[28-Jul-2023 20:48:23 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[28-Jul-2023 20:48:23 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[29-Jul-2023 11:00:43 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[29-Jul-2023 11:00:44 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[29-Jul-2023 11:00:44 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[29-Jul-2023 14:07:23 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[29-Jul-2023 14:07:23 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[29-Jul-2023 14:07:23 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[29-Jul-2023 19:14:08 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[29-Jul-2023 19:14:08 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[29-Jul-2023 19:14:08 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[29-Jul-2023 19:32:40 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[29-Jul-2023 19:32:40 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[29-Jul-2023 19:32:40 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[29-Jul-2023 19:32:58 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[29-Jul-2023 19:32:58 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[29-Jul-2023 19:32:58 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[29-Jul-2023 21:23:48 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[29-Jul-2023 21:23:48 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[29-Jul-2023 21:23:48 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[29-Jul-2023 21:25:43 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[29-Jul-2023 21:25:43 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[29-Jul-2023 21:25:43 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[29-Jul-2023 23:09:03 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[29-Jul-2023 23:09:03 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[29-Jul-2023 23:09:03 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[30-Jul-2023 09:38:52 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[30-Jul-2023 09:38:52 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[30-Jul-2023 09:38:52 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[30-Jul-2023 10:03:50 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[30-Jul-2023 10:03:50 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[30-Jul-2023 10:03:50 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[30-Jul-2023 11:27:05 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[30-Jul-2023 11:27:05 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[30-Jul-2023 11:27:05 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[30-Jul-2023 11:41:12 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[30-Jul-2023 11:41:12 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[30-Jul-2023 11:41:12 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[30-Jul-2023 13:23:44 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[30-Jul-2023 13:23:44 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[30-Jul-2023 13:23:44 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[30-Jul-2023 18:36:39 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[30-Jul-2023 18:36:40 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[30-Jul-2023 18:36:40 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[30-Jul-2023 18:37:10 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[30-Jul-2023 18:37:10 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[30-Jul-2023 18:37:10 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[30-Jul-2023 22:01:08 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[30-Jul-2023 22:01:08 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[30-Jul-2023 22:01:08 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[31-Jul-2023 12:27:47 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[31-Jul-2023 12:27:47 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[31-Jul-2023 12:27:47 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[31-Jul-2023 12:31:05 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[31-Jul-2023 12:31:05 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[31-Jul-2023 12:31:05 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[31-Jul-2023 16:20:09 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[31-Jul-2023 16:20:09 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[31-Jul-2023 16:20:09 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[01-Aug-2023 19:17:27 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[01-Aug-2023 19:17:27 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[01-Aug-2023 19:17:27 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[02-Aug-2023 00:52:16 Asia/Kolkata] PHP Warning:  Undefined variable $loginType in /home3/eaghirmy/public_html/krishisampark/app/register.php on line 116
+[02-Aug-2023 01:10:22 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[02-Aug-2023 01:10:22 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[02-Aug-2023 01:10:22 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[02-Aug-2023 09:00:41 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[02-Aug-2023 09:00:41 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[02-Aug-2023 09:00:41 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[02-Aug-2023 09:22:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home3/eaghirmy/public_html/krishisampark/app/category.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/app/category.php on line 19
+[02-Aug-2023 09:24:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function getCatName() in /home3/eaghirmy/public_html/krishisampark/app/listings.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/app/listings.php on line 5
+[02-Aug-2023 09:25:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home3/eaghirmy/public_html/krishisampark/app/listings.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/eaghirmy/public_html/krishisampark/app/listings.php on line 19
+[02-Aug-2023 17:59:09 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[02-Aug-2023 17:59:09 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[02-Aug-2023 17:59:09 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[02-Aug-2023 19:05:38 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[02-Aug-2023 19:05:38 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[02-Aug-2023 19:05:38 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[02-Aug-2023 21:56:24 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[02-Aug-2023 21:56:24 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[02-Aug-2023 21:56:24 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[04-Aug-2023 08:01:35 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[04-Aug-2023 08:01:35 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[04-Aug-2023 08:01:35 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[04-Aug-2023 12:50:55 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[04-Aug-2023 12:50:55 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[04-Aug-2023 12:50:55 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[07-Aug-2023 20:35:20 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[07-Aug-2023 20:35:20 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[07-Aug-2023 20:35:20 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[07-Aug-2023 20:36:20 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[07-Aug-2023 20:36:20 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[07-Aug-2023 20:36:20 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[08-Aug-2023 09:25:15 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[08-Aug-2023 09:25:15 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[08-Aug-2023 09:25:15 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[08-Aug-2023 19:18:21 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[08-Aug-2023 19:18:22 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[08-Aug-2023 19:18:22 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[09-Aug-2023 13:51:11 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[09-Aug-2023 13:51:11 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[09-Aug-2023 13:51:11 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[09-Aug-2023 20:23:15 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[09-Aug-2023 20:23:15 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[09-Aug-2023 20:23:15 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[10-Aug-2023 20:35:56 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[10-Aug-2023 20:35:56 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[10-Aug-2023 20:35:56 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[14-Aug-2023 10:26:46 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[14-Aug-2023 10:26:46 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[14-Aug-2023 10:26:46 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[14-Aug-2023 10:27:41 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[14-Aug-2023 10:27:41 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[14-Aug-2023 10:27:41 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 105
+[15-Aug-2023 15:23:30 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$profile_pic in /home3/eaghirmy/public_html/krishisampark/app/edit-profile.php on line 16
+[15-Aug-2023 15:23:30 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$profile_pic in /home3/eaghirmy/public_html/krishisampark/app/edit-profile.php on line 117
+[15-Aug-2023 15:30:10 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/login.php:5) in /home3/eaghirmy/public_html/krishisampark/app/login.php on line 143
+[15-Aug-2023 22:54:32 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[15-Aug-2023 22:54:32 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[15-Aug-2023 22:54:32 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[16-Aug-2023 00:22:17 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[16-Aug-2023 00:22:17 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[16-Aug-2023 00:22:17 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[16-Aug-2023 00:23:57 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 115
+[16-Aug-2023 00:23:57 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 116
+[16-Aug-2023 00:24:35 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 115
+[16-Aug-2023 00:24:35 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 116
+[16-Aug-2023 00:26:53 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 116
+[16-Aug-2023 00:26:53 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 117
+[16-Aug-2023 00:27:48 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 117
+[16-Aug-2023 00:27:48 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[16-Aug-2023 00:33:48 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[16-Aug-2023 00:33:48 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 119
+[16-Aug-2023 00:34:27 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[16-Aug-2023 00:34:27 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[16-Aug-2023 00:34:27 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[16-Aug-2023 00:34:47 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[16-Aug-2023 00:34:47 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 119
+[16-Aug-2023 00:35:52 Asia/Kolkata] PHP Warning:  Undefined array key "krishiUserId" in /home3/eaghirmy/public_html/krishisampark/app/index.php on line 39
+[16-Aug-2023 00:37:44 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[16-Aug-2023 00:37:44 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[16-Aug-2023 00:37:44 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[16-Aug-2023 00:38:47 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[16-Aug-2023 00:38:47 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 119
+[16-Aug-2023 00:39:05 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[16-Aug-2023 00:39:05 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[16-Aug-2023 00:39:05 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[16-Aug-2023 00:39:44 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[16-Aug-2023 00:39:44 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 119
+[16-Aug-2023 01:15:36 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[16-Aug-2023 01:15:36 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[16-Aug-2023 01:15:36 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[16-Aug-2023 01:15:55 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[16-Aug-2023 01:15:55 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 119
+[16-Aug-2023 11:32:26 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[16-Aug-2023 11:32:26 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[16-Aug-2023 11:32:26 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[16-Aug-2023 11:32:44 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[16-Aug-2023 11:32:44 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 119
+[16-Aug-2023 12:08:13 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[16-Aug-2023 12:08:13 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[16-Aug-2023 12:08:13 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[16-Aug-2023 12:08:52 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[16-Aug-2023 12:08:52 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 119
+[16-Aug-2023 12:40:28 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[16-Aug-2023 12:40:28 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[16-Aug-2023 12:40:28 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[16-Aug-2023 12:41:00 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 108
+[16-Aug-2023 12:41:00 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 109
+[16-Aug-2023 16:31:47 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[16-Aug-2023 16:31:47 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[16-Aug-2023 16:31:47 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[16-Aug-2023 16:32:45 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[16-Aug-2023 16:32:45 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[16-Aug-2023 16:32:45 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[16-Aug-2023 21:31:19 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[16-Aug-2023 21:31:19 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[16-Aug-2023 21:31:19 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[16-Aug-2023 21:31:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[16-Aug-2023 21:31:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 119
+[17-Aug-2023 11:49:43 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[17-Aug-2023 11:49:43 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[17-Aug-2023 11:49:43 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[17-Aug-2023 11:50:11 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 108
+[17-Aug-2023 11:50:11 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 109
+[17-Aug-2023 15:12:11 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[17-Aug-2023 15:12:11 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[17-Aug-2023 15:12:11 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[18-Aug-2023 17:28:54 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[18-Aug-2023 17:28:54 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[18-Aug-2023 17:28:54 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[19-Aug-2023 07:21:36 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[19-Aug-2023 07:21:36 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[19-Aug-2023 07:21:36 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[19-Aug-2023 07:22:18 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 108
+[19-Aug-2023 07:22:18 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 109
+[21-Aug-2023 09:46:14 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[21-Aug-2023 09:46:14 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[21-Aug-2023 09:46:14 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[21-Aug-2023 09:46:45 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[21-Aug-2023 09:46:45 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[21-Aug-2023 09:46:45 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[21-Aug-2023 09:51:54 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[21-Aug-2023 09:51:54 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[21-Aug-2023 09:51:54 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[21-Aug-2023 10:14:41 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[21-Aug-2023 10:14:41 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[21-Aug-2023 10:14:41 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[21-Aug-2023 10:15:19 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[21-Aug-2023 10:15:19 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 119
+[21-Aug-2023 17:54:19 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[21-Aug-2023 17:54:19 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[21-Aug-2023 17:54:19 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[21-Aug-2023 20:43:52 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[21-Aug-2023 20:43:52 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[21-Aug-2023 20:43:52 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[21-Aug-2023 20:45:33 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 108
+[21-Aug-2023 20:45:33 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 109
+[22-Aug-2023 20:36:21 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[22-Aug-2023 20:36:21 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[22-Aug-2023 20:36:21 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[22-Aug-2023 20:36:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[22-Aug-2023 20:36:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 119
+[23-Aug-2023 10:40:40 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[23-Aug-2023 10:40:40 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[23-Aug-2023 10:40:40 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[23-Aug-2023 10:40:57 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[23-Aug-2023 10:40:57 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 119
+[24-Aug-2023 08:55:53 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Aug-2023 08:55:53 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[24-Aug-2023 08:55:53 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[24-Aug-2023 08:56:36 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[24-Aug-2023 08:56:36 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 119
+[24-Aug-2023 10:14:03 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Aug-2023 10:14:03 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[24-Aug-2023 10:14:03 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[24-Aug-2023 10:14:25 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[24-Aug-2023 10:14:25 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 119
+[24-Aug-2023 11:54:38 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[24-Aug-2023 11:54:38 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[24-Aug-2023 11:54:38 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[24-Aug-2023 11:54:50 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[24-Aug-2023 11:54:50 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 119
+[25-Aug-2023 08:59:06 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[25-Aug-2023 08:59:06 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[25-Aug-2023 08:59:06 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[25-Aug-2023 08:59:09 Asia/Kolkata] PHP Warning:  Attempt to read property "userId" on null in /home3/eaghirmy/public_html/krishisampark/app/private/header.php on line 4
+[25-Aug-2023 08:59:09 Asia/Kolkata] PHP Warning:  Attempt to read property "name" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 104
+[25-Aug-2023 08:59:09 Asia/Kolkata] PHP Warning:  Attempt to read property "email" on null in /home3/eaghirmy/public_html/krishisampark/app/private/footer.php on line 106
+[25-Aug-2023 08:59:23 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[25-Aug-2023 08:59:23 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 119
+[25-Aug-2023 09:09:42 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status_type in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 82
+[25-Aug-2023 09:09:42 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$rooms in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[25-Aug-2023 09:09:42 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$area in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[25-Aug-2023 09:09:42 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status_type in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 82
+[25-Aug-2023 09:09:42 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$rooms in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[25-Aug-2023 09:09:42 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$area in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[25-Aug-2023 09:09:44 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status_type in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 82
+[25-Aug-2023 09:09:44 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$rooms in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[25-Aug-2023 09:09:44 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$area in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[25-Aug-2023 09:09:44 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$status_type in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 82
+[25-Aug-2023 09:09:44 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$rooms in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[25-Aug-2023 09:09:44 Asia/Kolkata] PHP Warning:  Undefined property: stdClass::$area in /home3/eaghirmy/public_html/krishisampark/app/properties.php on line 94
+[25-Aug-2023 10:13:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 118
+[25-Aug-2023 10:13:42 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php:6) in /home3/eaghirmy/public_html/krishisampark/app/otp-verify.php on line 119
